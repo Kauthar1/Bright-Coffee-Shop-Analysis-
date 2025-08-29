@@ -1,13 +1,20 @@
 # Bright-Coffee-Shop-Analysis-
 # Introduction 
 #PROBLEM STATEMENT 
-# The coffee shop has not been performing well in the past months, this has led to the CEO being fired and a new CEO being employed. The new CEO needs to understand the current standing of the company. 
+# Bright Coffee Shop has recently appointed a new CEO whose mission is to grow the company’s revenue and improve product performance. As a Junior Data Analyst, my task is to extract actionable insights from the shop’s historical daily transactional data and prepare a presentation to assist the CEO in decision-making.
+
 #AIM
-# The Aim is to provide a deep dive analysis on how the company has been performing in the past 6 months. 
+# The Aim is to provide business insights for the new CEO of Bright Coffee Shop by analyzing historical transactional data, with the goal of growing company revenue and improving product performance.
 
 #OBJECTIVES
-The following steps will be done to meet the aim:
-- To perform data inspection to check if the transaction is collected in full
+The objective of the Bright Coffee Shop Sales Analysis project is:
+
+To use analytics, SQL, and data visualization skills to help Bright Coffee Shop understand:
+
+- Which products generate the most revenue
+- What time of day the store performs best
+- Sales trends across products and time intervals
+- Recommendations for improving sales performance
 
 - # TOOLS USED TO IMPLEMENT THE PROJECT
 - Snowflake - data processing in SQL 
@@ -16,5 +23,7 @@ The following steps will be done to meet the aim:
 - Power BI - develeoping an interactive dashboard to track the performance continuously.
 
 - #SUMMARY OF THE RESULT
-- The analysis shows that 70% of the revenue comes from coffee sold in the Morning between May and June.
-- 
+Lower Manhattan consistently shows strong performance across both summary and transactional data.
+Bakery items and gourmet coffee are prominent contributors to revenue.
+Weekend mornings are active periods for sales, especially in coffee and bakery categories.
+  
